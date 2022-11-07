@@ -1,6 +1,6 @@
 # QiyiChain
 
-Welcome to QiyiChain! \
+Welcome to QiyiChain! 
 
 **QiyiChain is a high-performance permissioned public chain.**
 
