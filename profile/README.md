@@ -7,7 +7,6 @@ Welcome to QiyiChain! 👏👏👏
 Some resources of QiyiChain:
 
 - 🌐 Official website: https://qiyichain.cn
-- 🔍 Mainnet block explorer: https://explorer.qiyichain.cn
 
 Major Repositories:
 - 🔥 Peculiar(Golang implemention of QiyiChain): https://github.com/qiyichain/peculiar
