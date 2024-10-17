@@ -1,4 +1,4 @@
-# QiyiChain
+# QiyiChain(奇异链)
 
 Welcome to QiyiChain! 👏👏👏
 
